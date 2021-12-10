@@ -11,7 +11,7 @@ public class Ustabasi  extends isci{
 	public static void main(String[] args) {
 		
 		Ustabasi ust1=new Ustabasi();
-		
+		System.out.println(ust1.calisiyorMu);
 		
 	}
 
