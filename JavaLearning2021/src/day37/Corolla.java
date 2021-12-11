@@ -2,12 +2,12 @@ package day37;
 
 public class Corolla extends Toyota {
 
-	String renk;
+	
 	int fiyat;
 	boolean elektrikliMi;
 	int tekerSayisi=4;
 	String uretimYeri="Turkiye"; 
-	
+	 String renk;
 	public static void main(String[] args) {
 		
 		

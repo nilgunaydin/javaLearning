@@ -1,7 +1,7 @@
 package day37;
 
 public class Toyota extends Araba{
-
+	
 	protected boolean pahaliMi;
 	protected String uretimYeri="Japonya";
 	
