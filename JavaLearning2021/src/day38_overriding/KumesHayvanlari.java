@@ -25,12 +25,12 @@ public class KumesHayvanlari extends Kuslar{
 		Animals kms4 = new KumesHayvanlari();
 		
 		kms4.beslenme(); // Animals  Tum hayvanlar beslenir
-		kms4.hareket();  // Animals  Kumes hayvanlari yuruyerek hareket eder
+		kms4.hareket();  // kumes hayvanlari  Kumes hayvanlari yuruyerek hareket eder
 		kms4.solunum();  // Animals  Kuslar akcigerleriyle nefes alir
 		
 
 	}
-	
+	@Override
 	public void hareket() {
 		System.out.println("Kumes hayvanlari yuruyerek hareket eder");
 	}

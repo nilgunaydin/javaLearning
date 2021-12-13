@@ -1,6 +1,7 @@
 package day38_overriding;
 
 public class Animals {
+	
 	public void hareket() {
         System.out.println("Tum hayvanlar hareket eder");
     }
