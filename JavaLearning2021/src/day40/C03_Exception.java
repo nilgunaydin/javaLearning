@@ -24,9 +24,10 @@ public class C03_Exception {
 			System.out.println("girdiginiz index array'de yok");
 		} catch(InputMismatchException e) {
 			System.out.println("Girdiginiz index pozitif tam sayi olmali");
+			
 		}
 		
-
+System.out.println("gorev tamamlandi");
 
 	}
 
