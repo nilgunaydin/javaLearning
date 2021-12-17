@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 
 public class C04_fileInputStream {
 
-	public static void main(String[] args) throws FileNotFoundException   {
+	public static void main(String[] args) throws FileNotFoundException    {
 		//javada bir dosyaya ulasmak istedigimizde fileInputStream classindan yardim aliriz.
 		//
 		
