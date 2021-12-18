@@ -13,7 +13,7 @@ public interface C02_Interface {
 	  // 1- method'un basina "default" keywor yazabilirsiniz
 	  //    ancak burada yazilan default access modifier degil, Javanin interface icin ozel kabul ettigi bir keyword'dur
 	  
-	  public default  void kaporta() {
+	  public default   void kaporta() {
 		  System.out.println("default keyword sayesinde body olusturabildim");
 		  
 	  }
