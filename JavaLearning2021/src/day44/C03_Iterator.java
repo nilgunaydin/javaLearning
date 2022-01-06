@@ -29,9 +29,10 @@ public class C03_Iterator {
 		
 		ite1.remove(); // son dondurdugu elemnti siler
 		
-		 // System.out.println(ite1.remove());
-		// ite1.remove();
-		System.out.println(liste);
+		 // System.out.println(ite1.remove()); ----->remove methodu void'tir bize bir sey dondurmez 
+		//	remove sola next saga bakar.
+		//ite1.remove();
+		System.out.println(liste);//[5, 3, 7, 9, 8, 2]
 		
 		
 

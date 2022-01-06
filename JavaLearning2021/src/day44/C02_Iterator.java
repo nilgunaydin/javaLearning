@@ -33,7 +33,7 @@ List <Integer> liste = new ArrayList<>();
 		System.out.println(ite1.next()); // java.util.NoSuchElementException
 		
 		
-		
+		System.out.println("tamamlandi");
 		
 		
 		

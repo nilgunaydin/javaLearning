@@ -8,7 +8,7 @@ public abstract class AbsPersonel {
 	public abstract void statu();
 	
 
-	public abstract void abstractMethod();
+	abstract public  void abstractMethod();
 	
 	public void concreteMethod() {
 		System.out.println("Personel class'indaki concrete method calisti");

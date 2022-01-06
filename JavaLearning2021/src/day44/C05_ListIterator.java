@@ -24,10 +24,10 @@ public class C05_ListIterator {
 		
 		while (li1.hasNext()) {
 			
-			temp=(String) li1.next();
-			li1.set(temp + "X");
+		//	temp=(String) li1.next();
+		//	li1.set(temp + "X");
 			
-			// li1.set(li1.next()+"X");
+			li1.set(li1.next()+"X");   
 			
 		}
 		
